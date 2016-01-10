@@ -1,9 +1,10 @@
 #AdjustViewWhenHitTextField
 
 # Tutorial em português
-[Ir para tutorial em português!](#pt_br)
+[Ir para tutorial em português!](#portugues)
 
-(#english)
+### English
+
 # Description, Why?
 Easy description of how adjust views that has UITextField and when keyboard show up text field stayed behind keyboard.
 This tutorial its just a simple example that how we make view scroll up and back to original state after keyboard show and the tapped UITextField stayed behind keyboard.
@@ -100,8 +101,9 @@ If you don't want handle all this thinks just use a UITableView, when your view 
 # English Tutorial
 [Go to top](#english)
 
-(#pt_br)
-# Description, Why?
+### Portugues
+
+# Descrição, porquê desse exemplo?
 Simples demonstração de como reajustar um UIView quando temos nela um ou vários UITextField e ao selecionar e o teclado subir ou esconder nos garantimos que o UITextField não irá ficar atrás do teclado.
 
 Esse conceito pode ser aplicado para qualquer objeto to tipo UIView, por exemplo: UILabel, UIbutton.
