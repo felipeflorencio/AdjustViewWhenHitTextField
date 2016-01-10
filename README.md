@@ -193,5 +193,3 @@ Agora esta pronto, faça download do projeto terminado, tem mais um ou dois iten
 #Dica
 
 Se você não quer lidar com todas essa notificações, é simples, é só usar um UITableView. Quando sua view esta dentro de uma UITableView, a table view irá lidar com todas essas situações de scroll sem nenhuma implementação.
-
-[Go to top](#english)
