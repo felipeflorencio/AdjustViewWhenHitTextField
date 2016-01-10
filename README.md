@@ -1,8 +1,8 @@
 #AdjustViewWhenHitTextField
 
-### <a name="pt_br"></a>Portuguese BR Tutorial!
+[link]### <a name="pt_br"></a>Portuguese BR Tutorial!
 
-[link](#english)
+(#english)
 # Description, Why?
 Easy description of how adjust views that has UITextField and when keyboard show up text field stayed behind keyboard.
 This tutorial its just a simple example that how we make view scroll up and back to original state after keyboard show and the tapped UITextField stayed behind keyboard.
