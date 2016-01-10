@@ -1,6 +1,7 @@
 #AdjustViewWhenHitTextField
 
-[link]### <a name="pt_br"></a>Portuguese BR Tutorial!
+# Tutorial em português
+[Ir para tutorial em português!](#pt_br)
 
 (#english)
 # Description, Why?
@@ -96,9 +97,10 @@ Now its done, download or project to see finished, has one or other helper, but 
 
 If you don't want handle all this thinks just use a UITableView, when your view is inside UITableView, the table view will handle this scroll situation without any other implementation.
 
-### <a name="english"></a>Go to top.
+# English Tutorial
+[Go to top](#english)
 
-[link](#pt_br)
+(#pt_br)
 # Description, Why?
 Simples demonstração de como reajustar um UIView quando temos nela um ou vários UITextField e ao selecionar e o teclado subir ou esconder nos garantimos que o UITextField não irá ficar atrás do teclado.
 
@@ -190,4 +192,4 @@ Agora esta pronto, faça download do projeto terminado, tem mais um ou dois iten
 
 Se você não quer lidar com todas essa notificações, é simples, é só usar um UITableView. Quando sua view esta dentro de uma UITableView, a table view irá lidar com todas essas situações de scroll sem nenhuma implementação.
 
-### <a name="english"></a>Subir.
+[Go to top](#english)
