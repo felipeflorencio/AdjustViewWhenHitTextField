@@ -1,4 +1,4 @@
-# ${1:Project Name}
+#AdjustViewWhenHitTextField
 
 # Description
 Easy description of how adjust views that has UITextField and when keyboard show up text field stayed behind keyboard.
